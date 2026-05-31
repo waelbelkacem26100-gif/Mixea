@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "app/api/audit/route.ts": {
+      "maxDuration": 60
+    },
+    "app/api/audit/[id]/pdf/route.tsx": {
+      "maxDuration": 30
+    }
+  }
+}
